@@ -65,7 +65,7 @@ def sendemail(ans, product):
 def ReadAsin():
 	# Asin Id is the product Id which
 	# needs to be provided by the user
-	Asin = 'B077PWK5BT'
+	Asin = 'B08CZ2KNS6'
 	url = "http://www.amazon.in/dp/" + Asin
 	print ("Processing: "+url)
 	ans = check(url)
