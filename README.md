@@ -1,2 +1,2 @@
 # amazon_tracker
-A tracker to track an amazon product u want
+A simple python project to track your Amazon products and orders
